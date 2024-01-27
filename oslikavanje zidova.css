@@ -1,0 +1,83 @@
+html{
+	background-color: #fcdcfc;
+}
+#naslov2{
+	text-align: center;
+	font-family: Verdana;
+	color: #e89ee8;
+	font-size: 20px;
+}
+#pocetna{
+	font-family: Verdana;
+	font-size: 20px;
+	color: hotpink;
+	position: absolute;
+	top: 8px;
+	right: 16px;
+}
+#zid1{
+	text-align: center;
+}
+#zidtekst1{
+	font-family: Verdana;
+	font-size: 20px;
+	color: #cc62cc;
+	text-align: center;
+	padding: 20px;
+	margin-left: 300px;
+  	margin-right: 300px;
+}
+
+#zid2{
+	text-align: center;
+	padding-top: 50px;
+}
+#zidtekst2{
+	font-family: Verdana;
+	font-size: 20px;
+	color: #cc62cc;
+	text-align: center;
+	padding: 20px;
+	margin-left: 300px;
+  	margin-right: 300px;
+}
+#zid3{
+	text-align: center;
+	padding-top: 50px;
+}
+#zidtekst3{
+	font-family: Verdana;
+	font-size: 20px;
+	color: #cc62cc;
+	text-align: center;
+	padding: 20px;
+	margin-left: 300px;
+  	margin-right: 300px;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: white;
+    background-color: #c26dcf;
+    padding:10px;
+    border-radius: 10px;
+}
+
+a.button:hover {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: white;
+    background-color: #d788e3;
+    padding:10px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  	transform: translateY(5px);
+}
+
